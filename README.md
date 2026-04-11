@@ -1,70 +1,57 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L9BdRA1dVcxs5tX4tH/giphy.gif" width="100%" height="300px" style="filter: contrast(150%) brightness(80%);" alt="SYSTEM CRITICAL FAILURE">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamNreXJmZzRreXU0Z3ZueXJ4ZzRreXU0Z3ZueXJ4ZzRreXU0Zncmaz1i/3o7TKMGpxx8G3VvTMc/giphy.gif" width="100%" height="250px" style="object-fit: cover; border-bottom: 2px solid #660000;" alt="VOID_SIGNAL">
 </div>
 
-<h1 align="center" style="font-family: monospace;">
-  <span style="color: #8a0000;">⚠️ 403 FORBIDDEN ⚠️</span><br>
-  <span style="color: #ffffff; text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000;">Y O U _ A R E _ N O T _ S A F E</span>
+<h1 align="center" style="font-family: 'Courier New'; letter-spacing: 5px;">
+  <span style="color: #ffffff; text-shadow: 0 0 5px #ff0000, 0 0 10px #000000;">[ PROJECT_OBSIDIAN ]</span>
 </h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=900&size=28&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=700&lines=INITIATING_PROTOCOL_666...;SYSTEM_COMPROMISED_BY_[YOUR_NAME];YOUR_FIREWALL_IS_USELESS.;DATA_EXFILTRATION_IN_PROGRESS...;I_SEE_EVERYTHING." alt="Cursed Typing" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=990000&center=true&vCenter=true&width=600&lines=BREACH_IN_PROGRESS...;ENCRYPTING_REALITY...;STAY_IN_THE_SHADOWS.;THE_SYSTEM_IS_A_LIE." alt="Void Typing" />
+</div>
+
+---
+
+### 🌑 THE SILENT OPERATOR
+
+I don't just write code; I weave **digital traps**. My presence is a glitch in your uptime. I specialize in the architecture of things that shouldn't exist.
+
+* **CORE OBJECTIVE:** Protocol bypass and shadow persistence.
+* **STATUS:** <span style="color: #ff0000;">UNDELETED</span>
+* **LOCATION:** `127.0.0.1` (and everywhere else).
+
+> *"Security is an illusion. I am the reality check."*
+
+---
+
+### 🛠️ ENTROPY TOOLKIT
+
+| CATEGORY | ARSENAL |
+| :--- | :--- |
+| **LOW-LEVEL RUIN** | `C` · `C++` · `x86_64 ASM` |
+| **AUTOMATED CHAOS** | `Python` · `Go` · `Rust` |
+| **NETWORK COLLAPSE** | `Wireshark` · `Metasploit` · `Nmap` |
+| **GHOST LAYERS** | `Docker` · `Kubernetes` · `Terraform` |
+
+---
+
+### 📊 THREAT LEVEL & METRICS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=blood&hide_border=true&title_color=ff0000&icon_color=660000&text_color=ffffff" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=blood&hide_border=true&title_color=ff0000&text_color=ffffff" height="170px" />
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=blood&hide_border=true" alt="Kill Streak" />
 </div>
 
-### 🩸 T̵h̸e̵ ̸A̶r̶c̴h̸i̸t̷e̶c̸t̸ ̴o̸f̶ ̵C̵h̸a̶o̵s̸
-
-I am the ghost in the machine. I do not build; I infect. My tools are designed to dismantle the very fabric of secure networks. While you sleep, my scripts are escalating privileges.
-
-* **OBSESSION:** Total System Domination.
-* **METHODOLOGY:** Brute Force, Zero-Day Injection, Stealth Persistence.
-* **TARGET:** Anything with an IP address.
-
-> *"Fear is not a bug. It is a feature I implemented."*
+---
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <code style="color: #444;">TERMINATING_CONNECTION... 0x000F6</code>
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDcyN3B5N3B5N3B5N3B5N3B5N3B5N3B5N3B5N3B5N3B5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/10vXpUv9r3qj1S/giphy.gif" width="100%" height="50px" style="opacity: 0.3;">
 </div>
-
-### ☠️ WEAPONS OF MASS DESTRUCTION (Tech Stack)
-
-<div align="center">
-
-| **INFECTION VECTORS** | **ARSENAL** |
-| :---: | :---: |
-| **Exploit Core** | ![C](https://img.shields.io/badge/DEATH_BY_C-000000?style=for-the-badge&logo=c&logoColor=red) ![Asm](https://img.shields.io/badge/RAW_ASSEMBLY-000000?style=for-the-badge&logo=assemblyscript&logoColor=red) |
-| **Scripting Hell** | ![Python](https://img.shields.io/badge/PYTHON_VENOM-000000?style=for-the-badge&logo=python&logoColor=red) ![Bash](https://img.shields.io/badge/BASH_DESTRUCTION-000000?style=for-the-badge&logo=gnu-bash&logoColor=red) |
-| **Command & Control** | ![Kali](https://img.shields.io/badge/KALI_UNDERGROUND-000000?style=for-the-badge&logo=kali-linux&logoColor=red) ![Tor](https://img.shields.io/badge/DARK_NET-000000?style=for-the-badge&logo=tor-browser&logoColor=red) |
-
-</div>
-
-<br>
-
-### 📉 VITALS & KILL COUNT
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[AAPKA_GITHUB_USERNAME]&show_icons=true&theme=gotham&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=999" height="180px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[AAPKA_GITHUB_USERNAME]&layout=compact&theme=gotham&hide_border=true&title_color=ff0000&text_color=999" height="180px" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[AAPKA_GITHUB_USERNAME]&theme=dark-red&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiU1jFI7yww/giphy.gif" width="100%" height="100px" alt="Static Noise Footer">
-</div>
-
-<h3 align="center" style="color: red;">
-  RUN WHILE YOU CAN.
-</h3>
