@@ -63,6 +63,9 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Tor](https://camo.githubusercontent.com/886f7caf8dbb1590a40f9588b695b4dafd98a95d132dfa0a006d709e8780beb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f746f722d2532333745343739382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d746f722d70726f6a656374266c6f676f436f6c6f723d7768697465)
+![Githubpage](https://camo.githubusercontent.com/17b0c109e586314aeee343714bcaa2d48b6f0ba9550a976b4be4517b162a5ab4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f67697468756225323070616765732d3132313031333f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
+![Docker](https://camo.githubusercontent.com/97af73d098e049bf2d11e027500814d62dd2c840ce11d1cb5270607ae9949b2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
+![Apache](![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white))
 
 *(Note: Aap apni pasand ke aur bhi badges add kar sakte hain)*
 
