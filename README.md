@@ -1,75 +1,78 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/V3UvgjfRJYshO/giphy.gif" width="100%" height="250px" style="filter: grayscale(100%) contrast(200%); border-bottom: 2px solid #ff0000; padding: 10px; border-radius: 5px; background: #000;">
-</div>
+# Hi 👋, I'm VISHAL KUMAR BHARTI
 
-<h1 align="center" style="font-family: 'Courier New'; font-weight: bold;">
-  <span style="color: #ff0000; text-shadow: 0 0 10px #ff0000;">> CRITICAL_BREACH_DETECTED_</span>
-</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=500&color=FF3333&center=true&vCenter=true&width=700&lines=INITIALIZING_SHADOW_PROTOCOL...;SYSTEM_COMPROMISED...;ACCESS_ROOT...;WELCOME_ARCHITECT." alt="Hacker Typing" />
-</div>
-
-<div align="center">
-
-# 💀 [ THE_VOID ]
-### BLACK HAT OPERATIVE / MALWARE ARCHITECT
-
-**// Status:** `[ UNDETECTED ]`  
-**// Location:** `[ THE_GHOST_NETWORK ]`  
-**// Current Objective:** `[ TOTAL_SYSTEM_DOMINATION ]`
-
-</div>
+### A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India
 
 ---
 
-<table style="border: none; background: transparent; width: 100%; text-align: center;">
-  <tr>
-    <td style="border: none; padding: 10px;">
-      
-### ☣️ PRIMARY WEAPONS (DEVELOPMENT)
-
-<a href="https://img.shields.io/badge/MALWARE_DEV-C++-000000?style=for-the-badge&logo=c++&logoColor=red&labelColor=111111"><img src="https://img.shields.io/badge/MALWARE_DEV-C++-000000?style=for-the-badge&logo=c++&logoColor=red&labelColor=111111" height="35"></a>
-<a href="https://img.shields.io/badge/PAYLOADS-RUST-000000?style=for-the-badge&logo=rust&logoColor=red&labelColor=111111"><img src="https://img.shields.io/badge/PAYLOADS-RUST-000000?style=for-the-badge&logo=rust&logoColor=red&labelColor=111111" height="35"></a>
-<a href="https://img.shields.io/badge/SHELLCODE-ASM-000000?style=for-the-badge&logo=assemblyscript&logoColor=red&labelColor=111111"><img src="https://img.shields.io/badge/SHELLCODE-ASM-000000?style=for-the-badge&logo=assemblyscript&logoColor=red&labelColor=111111" height="35"></a>
-<a href="https://img.shields.io/badge/OBFUSCATION-PYTHON-000000?style=for-the-badge&logo=python&logoColor=red&labelColor=111111"><img src="https://img.shields.io/badge/OBFUSCATION-PYTHON-000000?style=for-the-badge&logo=python&logoColor=red&labelColor=111111" height="35"></a>
-
-    </td>
-    <td style="border: none; padding: 10px;">
-      
-### 🛰️ EXPLOITATION STACK (C2)
-
-<a href="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kali-linux&logoColor=ff0000&labelColor=111111"><img src="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kali-linux&logoColor=ff0000&labelColor=111111" height="35"></a>
-<a href="https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=rapid7&logoColor=ff0000&labelColor=111111"><img src="https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=rapid7&logoColor=ff0000&labelColor=111111" height="35"></a>
-<a href="https://img.shields.io/badge/TOR_NETWORK-000000?style=for-the-badge&logo=tor-browser&logoColor=ff0000&labelColor=111111"><img src="https://img.shields.io/badge/TOR_NETWORK-000000?style=for-the-badge&logo=tor-browser&logoColor=ff0000&labelColor=111111" height="35"></a>
-<a href="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=ff0000&labelColor=111111"><img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=ff0000&labelColor=111111" height="35"></a>
-
-    </td>
-  </tr>
-</table>
+- 📧 **Email Me:** [alamimran613@live.com](mailto:alamimran613@live.com) for Collaboration/Project or Anything Else. 😊😊
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** Imran Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ---
 
-### 🩸 VICTIM LOG & EXFILTRATION STATS
+## 🔗 I am a Content Creator. 😊😊
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=gotham&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=aaaaaa&bg_color=111111" height="170px" style="border: 2px solid #333; border-radius: 5px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=gotham&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=aaaaaa&bg_color=111111" height="170px" style="border: 2px solid #333; border-radius: 5px;" />
-</div>
+Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
-<br>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/images/exfiltration_progress.gif" width="100%" alt="Exfiltration in progress">
-</div>
+[![YouTube](https://img.shields.io/badge/YouTube-Techno_Snag-red?style=flat&logo=youtube)](https://youtube.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Techno_Snag-E4405F?style=flat&logo=instagram)](https://instagram.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Techno_Snag-1877F2?style=flat&logo=facebook)](https://facebook.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Techno_Snag-1DA1F2?style=flat&logo=twitter)](https://twitter.com)
 
 ---
 
-### 📟 TRANSMISSION_LOG
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TechnoSnag&theme=radical)
 
-```terminal
-> Loading Kernel Modules... [OK]
-> Initializing Obfuscation Layer... [OK]
-> Phishing Campaign Launched... [OK]
-> Exfiltrating Data to C2 Server... [OK]
-> Fear is not a bug. It is a feature I implemented.
+---
+
+### 💻 Tech Stack:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+*(Note: Aap apni pasand ke aur bhi badges add kar sakte hain)*
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechnoSnag&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoSnag&layout=compact&theme=radical)
+
+---
+
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+
+---
+
+### 🎭 Random Dev Quote
+> "If we'd asked the customers what they wanted, they would have said 'faster horses'."
+> — *Henry Ford*
+
+---
+
+### 🔝 Top Contributed Repo
+![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=TechnoSnag&repo=GitHub_Profile_Example&theme=radical)
