@@ -1,7 +1,9 @@
 # Hi 👋, I'm VISHAL KUMAR BHARTI
 
 ### A passionate Cybersecurity || Red Teaming (Offensive) || Exe_Anonymous Admin from India
-
+---
+"💀 Black Hat Hacker 🕶️ | ⚡ System Breaker | 
+🔍 Vulnerability Researcher | 💻 Code Manipulator 🏴‍☠️"
 ---
 
 - 📧 **Email Me:** [vishalkumar17805@gmail.com](mailto:vishalkumar17805@gmail.com) for Collaboration/Project or Anything Else. 😊😊
