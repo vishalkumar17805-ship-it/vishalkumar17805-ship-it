@@ -4,7 +4,7 @@
 
 ---
 
-- 📧 **Email Me:** [alamimran613@live.com](mailto:alamimran613@live.com) for Collaboration/Project or Anything Else. 😊😊
+- 📧 **Email Me:** [vishalkumar17805@gmail.com](mailto:vishalkumar17805@gmail.com) for Collaboration/Project or Anything Else. 😊😊
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
