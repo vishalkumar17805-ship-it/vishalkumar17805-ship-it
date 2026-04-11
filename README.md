@@ -1,34 +1,18 @@
-# Hi 👋, I'm VISHAL KUMAR BHARTI
-
-### A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India
-
----
-
-- 📧 **Email Me:** [vishalkumar17805@gmail.com](mailto:vishalkumar17805@gmail.com) for Collaboration/Project or Anything Else. 😊😊
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
----
-
 ## 🔗 I am a Content Creator. 😊😊
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
-[![YouTube](https://img.shields.io/badge/YouTube-Techno_Snag-red?style=flat&logo=youtube)](https://youtube.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Techno_Snag-E4405F?style=flat&logo=instagram)](https://instagram.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Techno_Snag-1877F2?style=flat&logo=facebook)](https://facebook.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Techno_Snag-1DA1F2?style=flat&logo=twitter)](https://twitter.com)
+<p align="left">
+<a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-Techno_Snag-red?style=flat&logo=youtube" alt="YouTube"></a>
+<a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-Techno_Snag-E4405F?style=flat&logo=instagram" alt="Instagram"></a>
+<a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-Techno_Snag-1877F2?style=flat&logo=facebook" alt="Facebook"></a>
+<a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-Techno_Snag-1DA1F2?style=flat&logo=twitter" alt="Twitter"></a>
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TechnoSnag&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=VISHALKUMAR17805&theme=radical)
 
 ---
 
@@ -55,16 +39,20 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechnoSnag&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoSnag&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=VISHALKUMAR17805&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHALKUMAR17805&layout=compact&theme=radical" alt="Top Langs" height="150" />
+</p>
 
 ---
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+<p align="left">
+<a href="your-link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="your-link"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="your-link"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -75,4 +63,4 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ---
 
 ### 🔝 Top Contributed Repo
-![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=TechnoSnag&repo=GitHub_Profile_Example&theme=radical)
+![](https://github-readme-stats.vercel.app/api/pin/?username=VISHALKUMAR17805&repo=README.md&theme=radical)
