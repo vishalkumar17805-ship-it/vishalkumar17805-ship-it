@@ -16,7 +16,7 @@
 
 ---
 
-## 🔗 I am a Content Creator. 😊😊
+## 🔗 "I am a Black Hat Hacker 🎩💻 | Specialized in Exploitation & Infrastructure Vulnerabilities 🛡️🔓". 😊😊
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
