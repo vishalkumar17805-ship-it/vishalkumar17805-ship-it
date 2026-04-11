@@ -62,6 +62,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Tor](https://camo.githubusercontent.com/886f7caf8dbb1590a40f9588b695b4dafd98a95d132dfa0a006d709e8780beb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f746f722d2532333745343739382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d746f722d70726f6a656374266c6f676f436f6c6f723d7768697465)
 
 *(Note: Aap apni pasand ke aur bhi badges add kar sakte hain)*
 
