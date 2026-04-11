@@ -1,10 +1,10 @@
-# Hi 👋, I'm Imran Alam
+# Hi 👋, I'm VISHAL KUMAR BHARTI
 
-### A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India
+### A passionate Cybersecurity || Red Teaming (Offensive) || Exe_Anonymous Admin from India
 
 ---
 
-- 📧 **Email Me:** [alamimran613@live.com](mailto:alamimran613@live.com) for Collaboration/Project or Anything Else. 😊😊
+- 📧 **Email Me:** [vishalkumar17805@gmail.com](mailto:vishalkumar17805@gmail.com) for Collaboration/Project or Anything Else. 😊😊
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
@@ -25,8 +25,19 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 [![Facebook](https://img.shields.io/badge/Facebook-Techno_Snag-1877F2?style=flat&logo=facebook)](https://facebook.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Techno_Snag-1DA1F2?style=flat&logo=twitter)](https://twitter.com)
 
+--- 
 ---
 
+### 🛡️ Cybersecurity & DevSecOps Focus
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Pen-Testing** | Kali Linux, Metasploit, Nmap, Burp Suite |
+| **Cloud Security** | AWS Inspector, Azure Sentinel, Prisma Cloud |
+| **Code Analysis** | Snyk, Checkov (for Terraform), SonarQube |
+| **Monitoring/SIEM** | Splunk, ELK Stack, Wazuh |
+
+---
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TechnoSnag&theme=radical)
 
