@@ -13,7 +13,7 @@
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 😄 **Pronouns:** exe_anonymous2.0
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ---
